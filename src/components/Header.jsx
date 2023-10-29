@@ -5,10 +5,6 @@ import { Button, Typography} from '@mui/material'
 import { Menu } from '@mui/icons-material'
 import Switcher from './Switcher'
 
-  // "homepage": "https://islom2202.github.io/simple-landing-page",
-  // scripts
-    //   "predeploy": "npm run build",
-    // "deploy": "gh-pages -d build",
 const Header = () => {
   const [navbar, setNavbar] = useState(false)
 
